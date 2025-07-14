@@ -37,7 +37,7 @@ const LoginPage = () => {
           <div className="mb-4 flex items-center justify-start gap-2">
             <ShipWheelIcon className="size-9 text-primary" />
             <span className="text-3xl font-bold font-mono text-black tracking-wider">
-              Streamify
+              Talkin
             </span>
           </div>
 
@@ -60,7 +60,7 @@ const LoginPage = () => {
                     Login to your Account
                   </h2>
                   <p className="text-sm opacity-70">
-                    Join Streamify and communicate easy!
+                    Join Talkin and communicate easy!
                   </p>
                 </div>
 

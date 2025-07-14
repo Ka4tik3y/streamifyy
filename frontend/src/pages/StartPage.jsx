@@ -10,7 +10,7 @@ const LandingPage = () => {
         <div className="flex items-center space-x-2">
           <ShipWheelIcon className="size-9 text-primary" />
           <span className="text-3xl font-bold font-mono text-black tracking-wider">
-            Streamify
+            Talkin
           </span>
         </div>
         <Link to="/login" className="text-sm font-medium hover:underline">
@@ -24,19 +24,19 @@ const LandingPage = () => {
           Connect. Communicate. Collaborate.
         </h1>
         <p className="text-lg max-w-xl mb-6">
-          Streamify is your all-in-one platform to chat and video call
+          Talkin is your all-in-one platform to chat and video call
           seamlessly with friends, or global communities. Fast and secure.
         </p>
         <Link to="/signup">
           <button className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-3 rounded-xl shadow transition duration-200">
-            Start Chatting
+            Start Talkin
           </button>
         </Link>
       </main>
 
       {/* Footer */}
       <footer className="text-center p-4 text-sm text-gray-500">
-        &copy; {new Date().getFullYear()} Streamify. All rights reserved.
+        &copy; {new Date().getFullYear()} Talkin. All rights reserved.
       </footer>
     </div>
   );

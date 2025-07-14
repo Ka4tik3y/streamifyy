@@ -16,7 +16,7 @@ const Sidebar = () => {
         <Link to="/" className="flex items-center gap-2">
          <ShipWheelIcon className="size-9 text-primary" />
 <span className="text-3xl font-bold font-mono text-black tracking-wider">
-  Streamify
+  Talkin
 </span>
 
         </Link>

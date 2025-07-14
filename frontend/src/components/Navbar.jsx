@@ -27,7 +27,7 @@ const Navbar = () => {
               <Link to="/home" className="flex items-center gap-2.5">
                 <ShipWheelIcon className="size-9 text-primary" />
                 <span className="text-3xl font-bold font-mono text-black tracking-wider">
-                  Streamify
+                  Talkin
                 </span>
               </Link>
             </div>
@@ -41,8 +41,7 @@ const Navbar = () => {
             </Link>
           </div>
 
-          {/* TODO */}
-          {/* <ThemeSelector /> */}
+         
 
           <div className="avatar">
             <div className="w-9 rounded-full">
